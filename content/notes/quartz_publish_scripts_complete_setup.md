@@ -3,7 +3,7 @@
 This setup will:
 
 - Keep ONE Obsidian vault
-- Publish ONLY notes tagged `#publish`
+- Publish ONLY notes tagged 
 - Automatically copy embedded attachments/images
 - Keep private notes private
 - Push automatically to GitHub
