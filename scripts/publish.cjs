@@ -1,36 +1,24 @@
 const { execSync } = require("child_process")
-const simpleGit = require("simple-git")
 
-const git = simpleGit()
+function run(cmd) {
+  console.log("\n>", cmd)
+  execSync(cmd, { stdio: "inherit" })
+}
 
 async function main() {
-  console.log("\nRunning sync...")
+  console.log("Running sync...")
+  run("node scripts/sync.cjs")
 
-  execSync("node scripts/sync.cjs", {
-    stdio: "inherit",
-  })
+  console.log("Adding files...")
+  run("git add -A")
 
-  console.log("\nBuilding Quartz...")
+  console.log("Committing...")
+  run('git commit -m "update notes" || echo "nothing to commit"')
 
-  , {
-    stdio: "inherit",
-  }
+  console.log("Pushing...")
+  run("git push origin v4")
 
-  console.log("\nGit add...")
-  await git.add(".")
-
-  console.log("Git commit...")
-
-  try {
-    await git.commit("Published notes update")
-  } catch {
-    console.log("Nothing new to commit")
-  }
-
-  console.log("Git push...")
-  await git.push()
-
-  console.log("\nPublish complete.\n")
+  console.log("Done.")
 }
 
 main()

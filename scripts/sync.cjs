@@ -3,29 +3,27 @@ const path = require("path")
 const fg = require("fast-glob")
 
 // ======================
-// YOUR VAULT PATH
+// PATHS
 // ======================
-const VAULT_PATH = "/Users/kirstencarpio/second brain"
-
-// ======================
-// QUARTZ CONTENT FOLDER
-// ======================
+const VAULT_PATH = "/Users/kirstencarpio/second brain" // <-- your Obsidian vault
 const OUTPUT_PATH = path.join(__dirname, "../content")
+
+const NOTES_DIR = path.join(OUTPUT_PATH, "notes")
+const ATTACHMENTS_DIR = path.join(OUTPUT_PATH, "attachments")
 
 async function main() {
   console.log("\nSync started...")
 
-  // DO NOT wipe entire content folder
-  // Only manage our two folders safely
-  const notesDir = path.join(OUTPUT_PATH, "notes")
-  const attachmentsDir = path.join(OUTPUT_PATH, "attachments")
-
-  await fs.ensureDir(notesDir)
-  await fs.ensureDir(attachmentsDir)
+  await fs.ensureDir(NOTES_DIR)
+  await fs.ensureDir(ATTACHMENTS_DIR)
 
   const markdownFiles = await fg("**/*.md", {
     cwd: VAULT_PATH,
     absolute: true,
+    ignore: [
+      "**/node_modules/**",
+      "**/content/**", // IMPORTANT: prevents self-copy loop
+    ],
   })
 
   console.log("Markdown files found:", markdownFiles.length)
@@ -33,22 +31,22 @@ async function main() {
   for (const file of markdownFiles) {
     const content = await fs.readFile(file, "utf8")
 
-    // publish filter
+    // ONLY publish tagged notes
     if (!content.includes("#publish")) continue
 
     const fileName = path.basename(file)
+    const noteDest = path.join(NOTES_DIR, fileName)
 
-    // ======================
-    // COPY NOTE → /notes
-    // ======================
-    const noteDest = path.join(notesDir, fileName)
-
-    await fs.copy(file, noteDest)
+    // Copy note
+    await fs.copy(file, noteDest, {
+      overwrite: true,
+      errorOnExist: false,
+    })
 
     console.log("Copied note:", fileName)
 
     // ======================
-    // COPY ATTACHMENTS
+    // ATTACHMENTS (SAFE MODE)
     // ======================
     const embedRegex = /!\[\[(.*?)\]\]/g
     const matches = [...content.matchAll(embedRegex)]
@@ -59,17 +57,27 @@ async function main() {
       const attachmentMatches = await fg(`**/${embedName}`, {
         cwd: VAULT_PATH,
         absolute: true,
+        ignore: [
+          "**/content/**", // CRITICAL SAFETY RULE
+        ],
       })
 
       for (const attachment of attachmentMatches) {
         const attachmentName = path.basename(attachment)
+        const attachmentDest = path.join(ATTACHMENTS_DIR, attachmentName)
 
-        const attachmentDest = path.join(
-          attachmentsDir,
-          attachmentName
-        )
+        // 🔥 HARD SAFETY CHECK (prevents your crash)
+        const src = path.resolve(attachment)
+        const dest = path.resolve(attachmentDest)
 
-        await fs.copy(attachment, attachmentDest)
+        if (src === dest) {
+          console.log("Skipping self-copy:", attachmentName)
+          continue
+        }
+
+        await fs.copy(attachment, attachmentDest, {
+          overwrite: true,
+        })
 
         console.log("  Copied attachment:", attachmentName)
       }
