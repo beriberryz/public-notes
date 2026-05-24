@@ -37,7 +37,7 @@ domain:
 
 ## 1st Day of ESA Revolution
 ---
-[Day 1 Explainer](https://vt.tiktok.com/ZSxmam4FD/)
+[Day 1 Explainer](https://www.tiktok.com/@mightymagulang/video/7338377167954332933?_r=1&_t=ZS-96d1wXO7a1V)
 - Planned EDSA feature portrayed the conflict as:
     - “forces of good vs. forces of evil”
     - similar to a _Star Wars_-style battle.
@@ -54,7 +54,7 @@ domain:
 ---
 ## 2nd Day of EDSA Revolution
 ---
-[Day 2 Explainer](https://vt.tiktok.com/ZSxmmCJyY/)
+[Day 2 Explainer](https://www.tiktok.com/@mightymagulang/video/7338853434164301061?_r=1&_t=ZS-96d1tPICMFx)
 - Different newspapers and reports gave conflicting versions of events.
 - Multiple press conferences by:
     - Ferdinand Marcos
@@ -73,7 +73,7 @@ domain:
 
 ## 3rd Day of EDSA Revolution
 ---
-[Day 3 Explainer](https://vt.tiktok.com/ZSxmaPeE9/)
+[Day 3 Explainer](https://www.tiktok.com/@mightymagulang/video/7339119558327913734?_r=1&_t=ZS-96d1zyrJmM9)
 - Military and political figures began recounting their experiences of EDSA.
 - Key individuals involved included:
     - Fidel V. Ramos
@@ -93,7 +93,7 @@ domain:
 
 ## 4th Day of EDSA Revolution
 ---
-[Day 4 Explainer](https://vt.tiktok.com/ZSxmaHyaV/)
+[Day 4 Explainer](https://www.tiktok.com/@mightymagulang/video/7339542789996301573?_r=1&_t=ZS-96d22cy1YbU)
 - Additional testimonies and perspectives emerged from:
     - civilians
     - military officials
