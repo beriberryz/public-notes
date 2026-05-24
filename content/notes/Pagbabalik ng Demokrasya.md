@@ -64,12 +64,14 @@ aspectRatio: "177.77777777777777"
 ## 2nd Day of EDSA Revolution
 ---
 ```embed
-title: "TikTok - Make Your Day"
-image: "https://p16-common-sign.tiktokcdn.com/tos-maliva-p-0068/5fa48ddf57e841e6bbef86b8dc9d0c94_1708709975~tplv-tiktokx-origin.image?dr=14575&x-expires=1779793200&x-signature=QFa0GfgKmViTkvsWok6T74RlMas%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2"
+title: "vt.tiktok.com"
+image: ""
 description: ""
-url: "https://vt.tiktok.com/ZSxmaQABx/"
+url: "https://vt.tiktok.com/ZSxmmCJyY/"
 favicon: ""
-aspectRatio: "177.77777777777777"
+parser: "local"
+date: "2026-05-24"
+custom_date: "2026-05-24 20:11:40"
 ```
 
 - Different newspapers and reports gave conflicting versions of events.
