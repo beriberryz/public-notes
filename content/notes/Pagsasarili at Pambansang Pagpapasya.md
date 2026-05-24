@@ -7,7 +7,7 @@ domain:
 #publish 
 
 # Mga Pangulo ng Ikatlong Republika
-![[Mga Pangulo ng Ikatlong Republika.base]]
+![[public-notes/content/attachments/Mga Pangulo ng Ikatlong Republika.base|Mga Pangulo ng Ikatlong Republika]]
 
 # Kontekstong Pang-Rehiyon
 - Cold War ^[Geopolotical and ideological rivalry] sa pagitang ng Estados Unidos at USSR (Union of Soviet Socialist Republics) o Soviet Union
