@@ -7,7 +7,7 @@ domain:
 
 
 # Powerpoint
-![[[11] Pagbabalik ng Demokrasya.pdf]]
+![[Pagbabalik ng Demokrasya.pdf]]
 
 # EDSA People Power
 - Mapayapang kilusan sa EDSA
