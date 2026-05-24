@@ -8,7 +8,7 @@ term: Mar 18, 1957- Dec 30, 1961
 #publish
 
 # Introduksiyon
-- Hindi matatapatan ang karisma ni [[Ramon Magsaysay|Magsaysay]]
+- Hindi matatapatan ang karisma ni [[01 areas/Ramon Magsaysay|Magsaysay]]
 - Isinulong ang [[#Filipino First Policy]]
 
 ## Filipino First Policy

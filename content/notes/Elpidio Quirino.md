@@ -27,7 +27,7 @@ term: Apr 17, 1948 - Dec 30, 1953
 
 | **Panahon ni [[Manuel Roxas\|Roxas]]**                                        | **Panahon ni Quirino**                                                                                                                                                                                                                                                                                |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pagbukod sa konstitusyonal na pulitika ay nagtulad sa maghanap ng alternatibo | 1. Hindi naging matagumpay ang negosasyon<br>2. Bagtulad sa isang armadong pakkipaglaban na nagsimula sa pagupo ni [[Ramon Magsaysay\|Magsaysay]] bilang Secretary of state/defense<br>3. Pinalitan ang pangalan from HUKBALAHAP to **Hukbong Mapagpalaya ng Bayan (People's Liberation Army o HMB)** |
+| Pagbukod sa konstitusyonal na pulitika ay nagtulad sa maghanap ng alternatibo | 1. Hindi naging matagumpay ang negosasyon<br>2. Bagtulad sa isang armadong pakkipaglaban na nagsimula sa pagupo ni [[01 areas/Ramon Magsaysay\|Magsaysay]] bilang Secretary of state/defense<br>3. Pinalitan ang pangalan from HUKBALAHAP to **Hukbong Mapagpalaya ng Bayan (People's Liberation Army o HMB)** |
 ### Pagbabago ng Hukbo ng Pilipinas/Armed Forces of the PH (AFP)
 - May influence pa rin ng US
 - JUSMAG o Joint United States Military Advisory Group
@@ -41,4 +41,4 @@ term: Apr 17, 1948 - Dec 30, 1953
 	- Economic Development Corporation
 	- Alternatibo sa rebelyon
 	- May pagkakataon makapag-ari ng lupa
-- Credited to [[Ramon Magsaysay|Magsaysay]]; Nonviolent Approach
+- Credited to [[01 areas/Ramon Magsaysay|Magsaysay]]; Nonviolent Approach

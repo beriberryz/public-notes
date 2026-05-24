@@ -18,7 +18,7 @@ term: Dec 30, 1953 - Mar 17, 1957
 # Mga Nagawa
 - Nagsumikap makipag-uganayan sa mga pamayanang rural o mga magsasaka sa pamamagitan ng Presidential Assistant for Community Development (PACD)
 - Mga unang NGOs
-	- Mga taga pribadong sektor na supporter ni [[Ramon Magsaysay|Magsaysay]]
+	- Mga taga pribadong sektor na supporter ni [[01 areas/Ramon Magsaysay|Magsaysay]]
 
 # Mga problema
 - Hindi na-solve nang maayos ang Land Reform Act of 1995 ^[layuning i-redistribute ang large agircultural lands sa mga landless citizens and mag establish ng stable agrarian system]

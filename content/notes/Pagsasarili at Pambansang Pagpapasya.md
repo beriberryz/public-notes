@@ -8,39 +8,20 @@ domain:
 
 # Mga Pangulo ng Ikatlong Republika
 
-```dataviewjs
-const pages = dv.pages('"public-notes/content/notes"')
-  .where(p => p.domain && p.domain.path.includes("Pagsasarili at Pambansang Pagpapasya"))
-  .sort(p => p.file.name)
+<a class="card" href="obsidian://open?vault=second%20brain&file=Ramon%20Magsaysay">
 
-let html = `<div class="president-grid">`
+  <img src="https://tse3.mm.bing.net/th/id/OIP.pghlN0_VccLLkf9topc5mgHaLR?rs=1&pid=ImgDetMain&o=7&rm=3"
+       alt="Ramon Magsaysay">
 
-for (const p of pages) {
+  <div class="card-info">
+    <h3>Ramon Magsaysay</h3>
+    <p>1953–1957</p>
+  </div>
 
-  // prevent duplicate image rendering
-  let cover = p.cover ?? ""
+</a>
 
-  // remove ![[ ]]
-  cover = cover.replace(/!\[\[(.*?)\]\]/, "$1")
 
-  html += `
-    <div class="president-card">
-      <a href="${p.file.path}" class="internal-link">
-        <img src="${cover}">
-        
-        <div class="president-info">
-          <h3>${p.file.name}</h3>
-          <p>${p.term ?? ""}</p>
-        </div>
-      </a>
-    </div>
-  `
-}
 
-html += `</div>`
-
-dv.paragraph(html)
-```
 
 # Kontekstong Pang-Rehiyon
 - Cold War ^[Geopolotical and ideological rivalry] sa pagitang ng Estados Unidos at USSR (Union of Soviet Socialist Republics) o Soviet Union
@@ -56,7 +37,7 @@ dv.paragraph(html)
 - Halimbawa
 	- [[Ferdinand E. Marcos]] ng Ilocos Norte
 	- Salipada Pendatun ng Cotobato
-	- [[Ramon Magsaysay]] ng Zambales
+	- [[01 areas/Ramon Magsaysay]] ng Zambales
 
 # Mga isyu pagkatapos ng digmaan
 - **Second Most Destructed City ang Manila**
@@ -91,7 +72,7 @@ dv.paragraph(html)
 - Hindi nabigyang-pansin ang pagtatangkang isaayos ang ekonomiya
 - Naging lamat ang usapin sa korapsyon
 
-# [[Ramon Magsaysay]]
+# [[01 areas/Ramon Magsaysay]]
 - Pauso siya ng first ever political jingle na [Mambo Magsaysay](https://youtu.be/bFBRgGCw06E?si=eLVxHPbPipOubzCZ)
 - Kauna-unahang nahalalna galing as probinsyal na lebel
 - Galing sa lower-class na pamilya
