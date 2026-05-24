@@ -2,8 +2,6 @@
 date: 2026-05-24
 course: "[[KAS 1]]"
 domain: "[[Pagsasarili at Pambansang Pagpapasya]]"
-cover: https://tse3.mm.bing.net/th/id/OIP.pghlN0_VccLLkf9topc5mgHaLR?rs=1&pid=ImgDetMain&o=7&rm=3
-term: Dec 30, 1953 - Mar 17, 1957
 ---
 #publish 
 

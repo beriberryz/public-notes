@@ -6,13 +6,16 @@ domain:
 
 #publish 
 
+# Powerpoint
+![[[9] Pagsasarili at Pambansang Pagpapasya.pdf]]
+
 # Mga Pangulo ng Ikatlong Republika
 
-
-| ![[ramonmagsaysay.webp\|150]]                          | ![[elpidioquirino.webp\|180]]                                                    | ![[manuelroxas.webp\|170]]                                                       |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| **[[Ramon Magsaysay]]**<br>Dec 30, 1953 - Mar 17, 1957 | **[[01 areas/Elpidio Quirino\|Elpidio Quirino]]**<br>Dec 30, 1953 - Mar 17, 1957 | **[[01 areas/Ramon Magsaysay\|Ramon Magsaysay]]**<br>Dec 30, 1953 - Mar 17, 1957 |
-|                                                        |                                                                                  |                                                                                  |
+| ![[roxas.png\|150]]<br>                              | ![[quirino.png\|150]]<br>                                 | ![[magsaysay.png\|150]]<br>                                                      |
+| ---------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **[[Manuel Roxas]]**<br>May 28, 1946 - Apr 15, 1948  | **[[Elpidio Quirino]]**<br>Apr 17, 1948 - Dec 30, 1953    | **[[01 areas/Ramon Magsaysay\|Ramon Magsaysay]]**<br>Dec 30, 1953 - Mar 17, 1957 |
+| ![[garcia.png\|150]]                                 | ![[macapagal.png\|150]]                                   | ![[marcos.png\|150]]                                                             |
+| **[[Carlos Garcia]]**<br>Mar 18, 1957 - Dec 30, 1961 | **[[Diosdado Macapagal]]**<br>Dec 30, 1961 - Dec 30, 1965 | **[[Ferdinand E. Marcos]]**<br>Dec 30, 1965, - Feb 25, 1986                      |
 
 # Kontekstong Pang-Rehiyon
 - Cold War ^[Geopolotical and ideological rivalry] sa pagitang ng Estados Unidos at USSR (Union of Soviet Socialist Republics) o Soviet Union
