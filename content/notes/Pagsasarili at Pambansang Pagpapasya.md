@@ -8,20 +8,11 @@ domain:
 
 # Mga Pangulo ng Ikatlong Republika
 
-<a class="card" href="obsidian://open?vault=second%20brain&file=Ramon%20Magsaysay">
 
-  <img src="https://tse3.mm.bing.net/th/id/OIP.pghlN0_VccLLkf9topc5mgHaLR?rs=1&pid=ImgDetMain&o=7&rm=3"
-       alt="Ramon Magsaysay">
-
-  <div class="card-info">
-    <h3>Ramon Magsaysay</h3>
-    <p>1953–1957</p>
-  </div>
-
-</a>
-
-
-
+| ![[ramonmagsaysay.webp\|150]]                          | ![[elpidioquirino.webp\|180]]                                                    | ![[manuelroxas.webp\|170]]                                                       |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **[[Ramon Magsaysay]]**<br>Dec 30, 1953 - Mar 17, 1957 | **[[01 areas/Elpidio Quirino\|Elpidio Quirino]]**<br>Dec 30, 1953 - Mar 17, 1957 | **[[01 areas/Ramon Magsaysay\|Ramon Magsaysay]]**<br>Dec 30, 1953 - Mar 17, 1957 |
+|                                                        |                                                                                  |                                                                                  |
 
 # Kontekstong Pang-Rehiyon
 - Cold War ^[Geopolotical and ideological rivalry] sa pagitang ng Estados Unidos at USSR (Union of Soviet Socialist Republics) o Soviet Union
