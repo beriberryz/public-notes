@@ -1,7 +1,8 @@
 ---
 title: Welcome sa notes ko bitches
 ---
-![[for QUARTZ]]
+![[00 - MOCs/Index|Index]]
+
 
 
 
