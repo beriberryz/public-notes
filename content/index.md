@@ -1,6 +1,13 @@
 ---
 title: Welcome sa notes ko bitches
 ---
-![[moc.base]]
+```dataview
+TABLE
+  course AS Course,
+  date AS Date
+FROM #publish
+SORT date DESC
+```
+
 
 

@@ -7,7 +7,40 @@ domain:
 #publish 
 
 # Mga Pangulo ng Ikatlong Republika
-![[public-notes/content/attachments/Mga Pangulo ng Ikatlong Republika.base|Mga Pangulo ng Ikatlong Republika]]
+
+```dataviewjs
+const pages = dv.pages('"public-notes/content/notes"')
+  .where(p => p.domain && p.domain.path.includes("Pagsasarili at Pambansang Pagpapasya"))
+  .sort(p => p.file.name)
+
+let html = `<div class="president-grid">`
+
+for (const p of pages) {
+
+  // prevent duplicate image rendering
+  let cover = p.cover ?? ""
+
+  // remove ![[ ]]
+  cover = cover.replace(/!\[\[(.*?)\]\]/, "$1")
+
+  html += `
+    <div class="president-card">
+      <a href="${p.file.path}" class="internal-link">
+        <img src="${cover}">
+        
+        <div class="president-info">
+          <h3>${p.file.name}</h3>
+          <p>${p.term ?? ""}</p>
+        </div>
+      </a>
+    </div>
+  `
+}
+
+html += `</div>`
+
+dv.paragraph(html)
+```
 
 # Kontekstong Pang-Rehiyon
 - Cold War ^[Geopolotical and ideological rivalry] sa pagitang ng Estados Unidos at USSR (Union of Soviet Socialist Republics) o Soviet Union
