@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome sa notes ko bitches
 ---
 
-![[Hello!]]
+
