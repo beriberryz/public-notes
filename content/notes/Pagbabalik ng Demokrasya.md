@@ -35,17 +35,9 @@ domain:
 
 # Edsa Revolution
 
-## 1st Day of EDSA Revolution
+## 1st Day of ESA Revolution
 ---
-```embed
-title: "Mighty Magulang on TikTok"
-image: "https://p16-common-sign.tiktokcdn.com/tos-maliva-p-0068/0db30a64ceee4998b5eaeb3e97db1931_1708599085~tplv-tiktokx-origin.image?dr=14575&x-expires=1779793200&x-signature=AM1G0xQRMmknw1nv97ev1%2FpMVYg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2"
-description: "#February22 #TodayInHistory #BUHAYangEDSA  "
-url: "https://vt.tiktok.com/ZSxmam4FD/"
-favicon: ""
-aspectRatio: "177.77777777777777"
-```
-
+[Day 1 Explainer](https://vt.tiktok.com/ZSxmam4FD/)
 - Planned EDSA feature portrayed the conflict as:
     - “forces of good vs. forces of evil”
     - similar to a _Star Wars_-style battle.
@@ -60,20 +52,9 @@ aspectRatio: "177.77777777777777"
 - Information spread unevenly and inconsistently through media.
 
 ---
-
 ## 2nd Day of EDSA Revolution
 ---
-```embed
-title: "vt.tiktok.com"
-image: ""
-description: ""
-url: "https://vt.tiktok.com/ZSxmmCJyY/"
-favicon: ""
-parser: "local"
-date: "2026-05-24"
-custom_date: "2026-05-24 20:11:40"
-```
-
+[Day 2 Explainer](https://vt.tiktok.com/ZSxmmCJyY/)
 - Different newspapers and reports gave conflicting versions of events.
 - Multiple press conferences by:
     - Ferdinand Marcos
@@ -92,15 +73,7 @@ custom_date: "2026-05-24 20:11:40"
 
 ## 3rd Day of EDSA Revolution
 ---
-```embed
-title: "TikTok - Make Your Day"
-image: "https://p16-common-sign.tiktokcdn.com/tos-maliva-p-0068/83ac8171924346e39b0f3e08224652c8_1708771937~tplv-tiktokx-origin.image?dr=14575&x-expires=1779793200&x-signature=jm6s2WwVZsXCrNBnVKStl8NT4cg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2"
-description: ""
-url: "https://vt.tiktok.com/ZSxmaPeE9/"
-favicon: ""
-aspectRatio: "177.77777777777777"
-```
-
+[Day 3 Explainer](https://vt.tiktok.com/ZSxmaPeE9/)
 - Military and political figures began recounting their experiences of EDSA.
 - Key individuals involved included:
     - Fidel V. Ramos
@@ -120,15 +93,7 @@ aspectRatio: "177.77777777777777"
 
 ## 4th Day of EDSA Revolution
 ---
-```embed
-title: "TikTok - Make Your Day"
-image: "https://p16-common-sign.tiktokcdn.com/tos-maliva-p-0068/6345fe658c2f46cb98eb4095f7723bde_1708870477~tplv-tiktokx-origin.image?dr=14575&x-expires=1779793200&x-signature=svtFrcHRci8iiI7TVf1BM80PsfU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2"
-description: ""
-url: "https://vt.tiktok.com/ZSxmaHyaV/"
-favicon: ""
-aspectRatio: "177.77777777777777"
-```
-
+[Day 4 Explainer](https://vt.tiktok.com/ZSxmaHyaV/)
 - Additional testimonies and perspectives emerged from:
     - civilians
     - military officials
