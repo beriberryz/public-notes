@@ -385,6 +385,24 @@
 >→ If the information you need is **not found in the required/main source**, but you get it from another source, put it in **square brackets**.  
 > → Example: `[Manila]` means the cataloguer supplied the place of publication from a source outside the prescribed source.
 
+| Punctuation                         | Precedes / Used Before                                       | Example                              |
+| --------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------- |
+| **`:` Colon**                           | Other title information / subtitle                               | `Title : subtitle`                       |
+| **`:` Colon**                           | Illustrative matter                                              | `250 p. : ill.`                          |
+| **`/` Diagonal slash**                  | Statement of responsibility                                      | `Title / Author`                         |
+| **`;` Semicolon**                       | Subsequent statement of responsibility                           | `Title / Author ; editor`                |
+| **`;` Semicolon**                       | Dimensions                                                       | `250 p. ; 21 cm.`                        |
+| **`;` Semicolon**                       | Numbering within a series                                        | `(Series) ; no. 3`                       |
+| **`=` Equal sign**                      | Parallel title                                                   | `Twilight = Takipsilim`                  |
+| **`+` Plus sign**                       | Accompanying material                                            | `271 p. : ill. ; 21 cm. + 1 answer book` |
+| **`(` `)` Parentheses**                 | Series statement                                                 | `(World history)`                        |
+| **`[ ]` Square brackets**               | GMD                                                              | `Title [text]`                           |
+| **`[ ]` Square brackets**               | Information taken from a source other than the prescribed source | `[Manila]`                               |
+| **`[ ]` Square brackets**               | Supplied information / cataloguer-supplied information           | `[critical]`                             |
+| **`,` Comma**                           | Names with the same role                                         | `Author 1, Author 2`                     |
+| **`. -` Period + space + dash + space** | Separates different areas of the bibliographic description       | `Title. - 2nd ed.`                       |
+
+
 >[!column|flex 2 no-i no-t]
 >>[!blank]
 >>>[!info|bg-c-orange] # Levels of Description
