@@ -423,12 +423,3 @@
 >|**Want to point out the mistake**|Add **[sic]** after the incorrect word.|`Principles of criticl [sic] care`|
 >|**Want to show the correction**|Use **i.e.** followed by the correct word in **[ ]**.|`Principles of criticl i.e. [critical] care`|
 >|**Letter or letters are missing**|Supply the missing letter(s) in **[ ]**.|Resource says **“Principles of critic care”** → `Principles of [critical] care`|
-
-
-# Inaccuries
-|Situation|What to do|Example|
-|---|---|---|
-|**Word is misspelled**|Copy the word **exactly as it appears** in the resource.|Resource says **“criticl”** → `Principles of criticl care`|
-|**Want to point out the mistake**|Add **[sic]** after the incorrect word.|`Principles of criticl [sic] care`|
-|**Want to show the correction**|Use **i.e.** followed by the correct word in **[ ]**.|`Principles of criticl i.e. [critical] care`|
-|**Letter or letters are missing**|Supply the missing letter(s) in **[ ]**.|Resource says **“Principles of critic care”** → `Principles of [critical] care`|
