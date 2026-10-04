@@ -3,8 +3,8 @@
 ---
 
 
->[!column|flex 2 no-i no-t] 
-># Assignment of Descriptive/Bibliographic Access Points - Main Entries
+
+>[!column|flex 2 no-i ttl-c] # Assignment of Descriptive/Bibliographic Access Points - Main Entries
 >>[!blank] 
 >>### **Conditions of authorship**
 >>- Works for which a single person or corporate body is responsible
