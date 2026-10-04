@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-notes/choices-of-access-points-headings-for-persons-geographic-names-and-uniform-titles-in-aacr-2/","dg-note-properties":{"date":"September 30, 2026","domain":"[[LIS 61]]","parent":"[[01 - Notes/AACR2]]","tags":null,"sources":null}}
+{"dg-publish":true,"permalink":"/01-notes/choices-of-access-points-headings-for-persons-geographic-names-and-uniform-titles-in-aacr-2/","noteIcon":"","dg-note-properties":{"date":"September 30, 2026","domain":"[[LIS 61]]","parent":"[[01 - Notes/AACR2]]","tags":null,"sources":null}}
 ---
 
 

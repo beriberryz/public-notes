@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-notes/general-rules-for-description-and-describing-monographs-using-aacr-2/","tags":["gardenEntry"],"dg-note-properties":{"date":"September 30, 2026","domain":"[[LIS 61]]","parent":"[[01 - Notes/AACR2]]","tags":null,"sources":null}}
+{"dg-publish":true,"permalink":"/01-notes/general-rules-for-description-and-describing-monographs-using-aacr-2/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{"date":"September 30, 2026","domain":"[[LIS 61]]","parent":"[[01 - Notes/AACR2]]","tags":null,"sources":null}}
 ---
 
 > [!column | flex 2 no-i ttl-c] # Chapters of AACR2
