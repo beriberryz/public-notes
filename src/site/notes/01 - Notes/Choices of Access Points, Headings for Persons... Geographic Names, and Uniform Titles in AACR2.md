@@ -3,37 +3,17 @@
 ---
 
 
-# Introduction
-
-
-```mermaid
-flowchart TB
-	A["Access Points"]
-	B["Definition"]
-	C["Types"]
-	A --> B
-	A --> C
-	
-	B --> B1["The mechanism that enables a user to discover a target document or other listed item"]
-	B --> b2["can also be called search key"]
-	
-	C --> C1["Descriptive/Bibliographi access points"]
-	C --> C2["Subject access Points"]
-	C1 --> C3["Four types"]
-	C3 --> C4["Names of Persons, Names of Corporate bodies, Titles, Names of series"]
-```
-
->[!column|flex 2 no-i ttl-c] # Assignment of Descriptive/Bibliographic Access Points - Main Entries
+>[!column|flex 2 no-i no-t] 
+># Assignment of Descriptive/Bibliographic Access Points - Main Entries
 >>[!blank] 
 >>### **Conditions of authorship**
 >>- Works for which a single person or corporate body is responsible
 >>- Works of unknown or uncertain authorship or by unnamed groups
 >>- Works of share responsibility
 >>- Collections and works produced under editorial direction
->>- Works of mixed responsibility
+>>- Works of mixed responsibility 
 >>  
 >> ### **Main entry under Personal Author**
->> - **Single personal authorship**
 >>- **Shared responsibility**
 >>1. Principal author (kung sinong author may pinaka-maraming ambag)
 >>2. First named author
