@@ -49,7 +49,7 @@
 >>
 >>## Areas of Descriptions
 >>
->>### 1. Title and statement of responsibility
+>>### 1. **Title and statement of responsibility**
 >>- **Title Proper**
 >>	- The chief name of an item, including any alternative title but excluding parallel titles and other title information
 >>	- Transcribe the title proper exactly as to wording, order, and spelling, but not necessarily as to punctuation and capitalization. Capitalize the first word then the rest of the words capitalize only when its a proper noun
@@ -65,19 +65,19 @@
 >>	- Subtitles
 >>	- Precede by a colon
 >>	- `Principle of economics : an introduction`
->>- ** Statement of Responsibility**
->>	- Which entity has the contribution in creating the bibliographic record
->>	-  Only put those who are in the title page
->>	- Exclude titles or suffixes
->>	- Precede by a diagonal slash
->>		- `Introduction to bilogy / Fred Williams`
->>	- If a single statement of responsibility names more than three persons or corporate bodies performing the same function, or with the same degree of responsibility, omit all but the first of each group of such persons or bodies. Indicate the omission by the mark of omission and add et al. in square brackets
->>		- `Cataloging in libraries / Renato Gomez ... [et al.]`
->>	- More than one statement of responsibility, transcribe in the order indicated by their sequence on, or the layout of, the chief source of information
->>	- Precede each subsequent statement of responsibility by a semicolon
->>		- `Introductory chemistry / by William Ford ... [et al.] ; edited by James Richards ; with a foreword by Terry Fletcher`
->>	- Add a word or short phrase to the statement of responsibility if the relationship between the title of the item and the person(s) or body (bodies) named in the statement of responsibility is not clear, Enclose it in square brackets
->>		- `Mga piling tula ng pag-ibig / [collected by] Brando Tatlonghari`
+>>### **2. Statement of Responsibility**
+>>- Which entity has the contribution in creating the bibliographic record
+>>-  Only put those who are in the title page
+>>- Exclude titles or suffixes
+>>- Precede by a diagonal slash
+>>	- `Introduction to bilogy / Fred Williams`
+>>- If a single statement of responsibility names more than three persons or corporate bodies performing the same function, or with the same degree of responsibility, omit all but the first of each group of such persons or bodies. Indicate the omission by the mark of omission and add et al. in square brackets
+>>	- `Cataloging in libraries / Renato Gomez ... [et al.]`
+>>- More than one statement of responsibility, transcribe in the order indicated by their sequence on, or the layout of, the chief source of information
+>>- Precede each subsequent statement of responsibility by a semicolon
+>>	- `Introductory chemistry / by William Ford ... [et al.] ; edited by James Richards ; with a foreword by Terry Fletcher`
+>>- Add a word or short phrase to the statement of responsibility if the relationship between the title of the item and the person(s) or body (bodies) named in the statement of responsibility is not clear, Enclose it in square brackets
+>>	- `Mga piling tula ng pag-ibig / [collected by] Brando Tatlonghari`
 >>
 >>### 2. Edition
 >>- **Edition Statement**
