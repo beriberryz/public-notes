@@ -47,3 +47,34 @@ body {
     );
   }
 }
+
+
+body {
+  /* Panel color: a slightly darker shade of your page background.
+     Change the percentage to make it lighter or stronger. */
+  --dg-panel-bg: #e0dacd; /* fallback */
+  --dg-panel-bg: color-mix(in srgb, var(--background-primary) 92%, black);
+}
+
+/* Left navigation panel */
+.filetree-wrapper {
+  background-color: var(--dg-panel-bg);
+  border-right: 1px solid var(--background-modifier-border);
+  box-shadow: 2px 0 12px rgba(0, 0, 0, 0.08);
+  box-sizing: border-box;
+}
+
+/* Right table-of-contents panel (wide screens only) */
+@media (min-width: 1401px) {
+  body .sidebar {
+    top: 0;
+    right: 0;                 /* panel runs to the right edge */
+    height: 100vh;
+    max-width: none;
+    box-sizing: border-box;
+    padding: var(--dg-sidebar-top) 0 0 24px;
+    background-color: var(--dg-panel-bg);
+    border-left: 1px solid var(--background-modifier-border);
+    box-shadow: -2px 0 12px rgba(0, 0, 0, 0.08);
+  }
+}
