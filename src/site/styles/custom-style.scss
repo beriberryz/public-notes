@@ -11,3 +11,39 @@ body {
     //   color: black;
     //  }
 }
+
+/* Tighter gaps between the three columns */
+body {
+  --dg-filetree-gap: 40px;
+  --dg-sidebar-gap: 40px;
+}
+
+@media (min-width: 1401px) {
+  /* Navigation pinned to the far left */
+  body .filetree-wrapper {
+    width: var(--dg-filetree-width);
+    justify-content: flex-start;
+  }
+
+  /* Content stretches to fill the space between the nav and the right sidebar */
+  body {
+    --dg-content-max-width: calc(
+      100vw - var(--dg-filetree-width) - var(--dg-filetree-gap)
+      - var(--dg-sidebar-gap) - var(--dg-sidebar-max-width) - 60px
+    );
+  }
+
+  body .content {
+    margin-left: calc(var(--dg-filetree-width) + var(--dg-filetree-gap));
+    margin-right: 0;
+    padding-right: 20px;
+  }
+
+  /* Right sidebar (table of contents) follows the content's right edge */
+  body .sidebar {
+    left: calc(
+      var(--dg-filetree-width) + var(--dg-filetree-gap)
+      + var(--dg-content-max-width) + var(--dg-sidebar-gap)
+    );
+  }
+}
