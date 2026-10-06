@@ -114,10 +114,3 @@ body {
   border: 0;
   padding: 0;
 }
-
-/* Vertical divider between columns, centered in the gap */
-.callout[data-callout*=column] > .callout-content > .callout:not(:first-child) {
-  border-left: 1px solid var(--text-muted);
-  margin-left: calc(var(--callout-column-gap, 2rem) / -2);
-  padding-left: calc(var(--callout-column-gap, 2rem) / 2);
-}
