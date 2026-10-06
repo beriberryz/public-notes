@@ -50,22 +50,22 @@
 >>## Areas of Descriptions
 >>
 >>### 1. **Title and statement of responsibility**
->>- **Title Proper**
->>	- The chief name of an item, including any alternative title but excluding parallel titles and other title information
->>	- Transcribe the title proper exactly as to wording, order, and spelling, but not necessarily as to punctuation and capitalization. Capitalize the first word then the rest of the words capitalize only when its a proper noun
->>	- Abridge a long title proper only if this can be done without loss of essential information
->>	- Supple a title proper for an item lacking a chief source of information from the rest of the item, or a reference source, or elsewhere
+>>#### A. **Title Proper**
+>>- The chief name of an item, including any alternative title but excluding parallel titles and other title information
+>>- Transcribe the title proper exactly as to wording, order, and spelling, but not necessarily as to punctuation and capitalization. Capitalize the first word then the rest of the words capitalize only when its a proper noun
+>>- Abridge a long title proper only if this can be done without loss of essential information
+>>- Supple a title proper for an item lacking a chief source of information from the rest of the item, or a reference source, or elsewhere
 >>- [[01 - Notes/General Rules for Description and Describing Monographs using AACR2#^GMD\|General Material Designation (GMD)]]
->>- ** Parallel Title**
->>	- The title proper in another language and/or script
->>	- Precede by an equals sign
->>	- `Twilight = Takipsilm`
->>- ** Other Title Information**
->>	- A title borne by an item other than the title proper or parallel or series title(s); also any phrase appearing in conjunction with the title proper, etc., indicative of the character, contents, etc., of the item or the motives for, or occasion of, its production or publication
->>	- Subtitles
->>	- Precede by a colon
->>	- `Principle of economics : an introduction`
->>### **2. Statement of Responsibility**
+>>##### ** Parallel Title**
+>>- The title proper in another language and/or script
+>>- Precede by an equals sign
+>>- `Twilight = Takipsilm`
+>>##### ** Other Title Information**
+>>- A title borne by an item other than the title proper or parallel or series title(s); also any phrase appearing in conjunction with the title proper, etc., indicative of the character, contents, etc., of the item or the motives for, or occasion of, its production or publication
+>>##### **Subtitles**
+>>- Precede by a colon
+>>- `Principle of economics : an introduction`
+>>### **B. Statement of Responsibility**
 >>- Which entity has the contribution in creating the bibliographic record
 >>-  Only put those who are in the title page
 >>- Exclude titles or suffixes
