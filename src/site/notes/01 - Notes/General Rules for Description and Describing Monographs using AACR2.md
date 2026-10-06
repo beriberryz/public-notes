@@ -56,11 +56,11 @@
 >>- Abridge a long title proper only if this can be done without loss of essential information
 >>- Supple a title proper for an item lacking a chief source of information from the rest of the item, or a reference source, or elsewhere
 >>- [[01 - Notes/General Rules for Description and Describing Monographs using AACR2#^GMD\|General Material Designation (GMD)]]
->>##### ** Parallel Title**
+>>##### **Parallel Title**
 >>- The title proper in another language and/or script
 >>- Precede by an equals sign
 >>- `Twilight = Takipsilm`
->>##### ** Other Title Information**
+>>##### **Other Title Information**
 >>- A title borne by an item other than the title proper or parallel or series title(s); also any phrase appearing in conjunction with the title proper, etc., indicative of the character, contents, etc., of the item or the motives for, or occasion of, its production or publication
 >>##### **Subtitles**
 >>- Precede by a colon
