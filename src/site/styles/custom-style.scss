@@ -78,3 +78,46 @@ body {
     box-shadow: -2px 0 12px rgba(0, 0, 0, 0.08);
   }
 }
+
+
+/* Justified text in columns */
+.callout[data-callout*=column] .callout-content p,
+.callout[data-callout*=column] .callout-content li {
+  text-align: justify !important;
+}
+
+.callout[data-callout*=column] .callout-content li {
+  line-height: 1.5;
+  margin-bottom: 5px;
+}
+
+.callout[data-callout*=column] .callout-content ul,
+.callout[data-callout*=column] .callout-content ol {
+  margin-top: 4px;
+  margin-bottom: 12px;
+}
+
+.callout[data-callout*=column] .callout-content h1,
+.callout[data-callout*=column] .callout-content h2,
+.callout[data-callout*=column] .callout-content h3 {
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+/* Column grid */
+.callout[data-callout*=column] > .callout-content {
+  display: grid;
+  grid-template-columns: repeat(var(--columns), 1fr);
+  gap: var(--callout-column-gap);
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+  padding: 0;
+}
+
+/* Vertical divider between columns, centered in the gap */
+.callout[data-callout*=column] > .callout-content > .callout:not(:first-child) {
+  border-left: 1px solid var(--text-muted);
+  margin-left: calc(var(--callout-column-gap, 2rem) / -2);
+  padding-left: calc(var(--callout-column-gap, 2rem) / 2);
+}
