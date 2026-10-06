@@ -118,7 +118,7 @@ body {
 
 /* Wider space between columns */
 .callout[data-callout*=column] {
-  --callout-column-gap: 4rem;
+  --callout-column-gap: 6rem;
 }
 
 .callout[data-callout*=column] > .callout-content {
